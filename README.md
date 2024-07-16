@@ -1,5 +1,6 @@
 # SolvusAssignment
-'''mermaid
+
+```mermaid
     graph TD
     User-->Chatbot
     Chatbot-->ChatbotController
@@ -30,5 +31,4 @@
     AnalyticsService-->MonitoringService
     IntegrationLayer-->ChatbotController
     ChatbotController-->Chatbot
-
-'''
+```
