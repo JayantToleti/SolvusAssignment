@@ -1,6 +1,6 @@
 # SolvusAssignment
 '''mermaid
-graph TD
+    graph TD
     User-->Chatbot
     Chatbot-->ChatbotController
     ChatbotController-->AuthService
